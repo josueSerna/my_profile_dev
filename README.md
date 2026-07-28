@@ -51,4 +51,4 @@ También permite cambiar el color principal del perfil, actualizando la interfaz
 Clonar el repositorio:
 
 ```bash
-git clone https://github.com/josueSerna/my_profile_dev
+git clone https://github.com/josueSerna/my_profile_dev.git
