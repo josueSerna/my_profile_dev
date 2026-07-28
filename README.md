@@ -27,17 +27,16 @@ El proyecto está organizado separando modelos, proveedores de estado, pantallas
 lib/
 │
 ├── core/
-│ └── routes/
+│   └── routes/
 │
 ├── data/
-│ └── models/
+│   └── models/
 │
 ├── providers/
 │
-├── presentation/
-│ └── widgets/
-│     screen/
-
+└── presentation/
+    ├── widgets/
+    └── screen/
 
 ## Descripción
 
@@ -52,4 +51,4 @@ También permite cambiar el color principal del perfil, actualizando la interfaz
 Clonar el repositorio:
 
 ```bash
-git clone https://github.com/usuario/mi-perfil-dev.git
+git clone https://github.com/josueSerna/my_profile_dev
