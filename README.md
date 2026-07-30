@@ -24,6 +24,7 @@ Este proyecto fue desarrollado como práctica para aplicar conceptos básicos de
 
 El proyecto está organizado separando modelos, proveedores de estado, pantallas y componentes reutilizables.
 
+```text
 lib/
 │
 ├── core/
@@ -37,6 +38,7 @@ lib/
 └── presentation/
     ├── widgets/
     └── screen/
+```
 
 ## Descripción
 
